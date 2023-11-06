@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-10-22T20:54:29.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Kc1RzdN6CqVrnjPc4vQP" version="22.0.0" type="device">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="2314" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lxa33vb_mJgnE-pgdm1S-2" target="lxa33vb_mJgnE-pgdm1S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-2" value="Navegador" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="74.8" height="75.4" as="geometry" />
+        </mxCell>
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-6" value="Internal Network" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="770" y="215" width="740" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-4" value="API Gateway" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-7" value="Key Cloak" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions" vertex="1" parent="1">
+          <mxGeometry x="950" y="290" width="16" height="30.77" as="geometry" />
+        </mxCell>
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-10" value="Microservices" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1140" y="300" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-11" value="Frontend" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="485.4" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lxa33vb_mJgnE-pgdm1S-13" value="database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="310" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
